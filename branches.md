@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/special/roundn"
-click B href "https://github.com/stdlib-js/math-base-special-roundn/tree/main"
-click C href "https://github.com/stdlib-js/math-base-special-roundn/tree/production"
-click D href "https://github.com/stdlib-js/math-base-special-roundn/tree/esm"
-click E href "https://github.com/stdlib-js/math-base-special-roundn/tree/deno"
-click F href "https://github.com/stdlib-js/math-base-special-roundn/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/special/roundn"
+%% click B href "https://github.com/stdlib-js/math-base-special-roundn/tree/main"
+%% click C href "https://github.com/stdlib-js/math-base-special-roundn/tree/production"
+%% click D href "https://github.com/stdlib-js/math-base-special-roundn/tree/esm"
+%% click E href "https://github.com/stdlib-js/math-base-special-roundn/tree/deno"
+%% click F href "https://github.com/stdlib-js/math-base-special-roundn/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/base/special/roundn

@@ -40,7 +40,6 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float64-max": "^0.2.1",
     "@stdlib/constants-float64-max-base10-exponent": "^0.2.1",
     "@stdlib/constants-float64-max-safe-integer": "^0.2.1",
     "@stdlib/constants-float64-min-base10-exponent": "^0.2.1",

@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`220f055`](https://github.com/stdlib-js/stdlib/commit/220f05572a13425bd7b49efbf6102eef8975d9c1) - **chore:** replace manual `for` loop in examples [(#6491)](https://github.com/stdlib-js/stdlib/pull/6491) _(by Harsh)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`6c34fb7`](https://github.com/stdlib-js/stdlib/commit/6c34fb73a0fc81142c09c1002c2e2c64e21dd018) - **bench:** update random value generation [(#6414)](https://github.com/stdlib-js/stdlib/pull/6414) _(by Harsh)_
 -   [`8959b08`](https://github.com/stdlib-js/stdlib/commit/8959b0832d8a7d7f9ed8f56b43b7866af72554bd) - **chore:** fix C lint errors [(#6194)](https://github.com/stdlib-js/stdlib/pull/6194) _(by Jay Soni)_
